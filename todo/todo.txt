@@ -1,0 +1,2 @@
+build cli file tree
+figure out argparse a little better
