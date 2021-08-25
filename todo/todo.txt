@@ -1,2 +1,3 @@
-build cli file tree
-figure out argparse a little better
+learn regex
+learn beautifulsoup
+move cli tool entry points to cli_tools level, modify import paths, and unify venv
