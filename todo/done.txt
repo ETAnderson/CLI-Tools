@@ -1,2 +1,5 @@
 x 2021-08-25 build cli file tree
 x 2021-08-25 figure out argparse a little better
+x 2021-09-09 learn regex
+x 2021-09-09 move cli tool entry points to cli_tools level, modify import paths, and unify venv
+x 2021-09-09 learn beautifulsoup

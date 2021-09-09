@@ -1,3 +1,4 @@
-learn regex
-learn beautifulsoup
-move cli tool entry points to cli_tools level, modify import paths, and unify venv
+1 hour of Java on CA
+1 hour of Javascript on CS
+1-2 hours on ecomm
+jobhunt
